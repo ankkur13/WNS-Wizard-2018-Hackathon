@@ -1,5 +1,5 @@
-# Employee_promotion_Prediction_using_CatBoost
-Employee_promotion_Prediction_using_CatBoost
+# Employee_promotion_Prediction_using_XGBoost
+Employee_promotion_Prediction_using_XGBoost
 
 <h1>1. Business Problem</h1>
 
@@ -46,5 +46,5 @@ Metric(s): F1 score
 Split the Training  dataset  into Two parts train, and cross validation with 70% and 30% of data respectively
 
 <h2>3. Code</h2>
-<p>Main code file is <h4>Employee_promotion_Prediction_using_CatBoost.ipynb </h4></p>
+<p>Main code file is <h4>Employee_promotion_Prediction_using_XGBoost.ipynb </h4></p>
 <p>other experiment scripts are under Other_code folder</p>
