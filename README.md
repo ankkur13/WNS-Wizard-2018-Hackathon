@@ -17,7 +17,6 @@ They have provided multiple attributes around Employee's past and current perfor
   
 <h2>1.2. Source/Useful Links</h2>
 <p>https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018/</p>
-<p>https://tech.yandex.com/catboost/</p>
 <h1>2. Machine Learning Problem Formulation</h1>
 <h2>2.1. Data</h2>
 
@@ -47,4 +46,3 @@ Split the Training  dataset  into Two parts train, and cross validation with 70%
 
 <h2>3. Code</h2>
 <p>Main code file is <h4>Employee_promotion_Prediction_using_XGBoost.ipynb </h4></p>
-<p>other experiment scripts are under Other_code folder</p>
